@@ -1,3 +1,1 @@
-fWord = 'Hello, World!'
-print (fWord)
-print ('Olá, Mundo!')
+print ("Hello World")
